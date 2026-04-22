@@ -6,7 +6,7 @@ public class BallController : MonoBehaviour
     public CustomButton Right;
     public CustomButton Left;
     public CustomButton Jump;
-    public float MaxSpeed = 4;
+    public float MaxSpeed = 7;
     public float JumpForce = 7;
     public float Radius;
     public Transform GroundTarget;
